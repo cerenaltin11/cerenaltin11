@@ -1,20 +1,35 @@
 <div align="center">
 
-  <p align="center">
-    🌸 🌸 🌸 🌸 🌸 🌸 🌸
-  </p>
-  
-  <img src="https://media.giphy.com/media/f3dRSiaJSq8DL8x0B2/giphy.gif" width="220px" alt="Charizard" />
+# ✦ Ceren Altın ✦
 
-  <br/><br/>
+`Computer Programming Student` · `Developer`
 
+🌸　🌸　🔥　🌸　🌸
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FF69B4&center=true&vcenter=true&width=500&lines=🌸+ceren+altın+🌸;🔥+Charizard+Fan+🐉;✨+Hoş+Geldiniz!✨" alt="Typing SVG" />
+### 「 Code • Create • Improve 」
 
-  <br/>
+</div>
 
-  <p align="center">
-    🌸 🍃 🌸 🍃 🌸 🍃 🌸 🍃 🌸
-  </p>
+---
+
+<div align="center">
+
+**Currently learning**
+
+`PHP` · `Laravel` · `JavaScript` · `Git`
+
+🌸
+
+*"Turning ideas into code, one line at a time."*
+
+🔥 **Charizard enthusiast** 🔥
+
+</div>
+
+---
+
+<div align="center">
+
+![Ceren's GitHub stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&bg_color=00000000)
 
 </div>
