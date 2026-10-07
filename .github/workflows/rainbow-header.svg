@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+      <stop offset="0" stop-color="#ff3b3b"/>
+      <stop offset="0.17" stop-color="#ff9a1f"/>
+      <stop offset="0.33" stop-color="#ffe135"/>
+      <stop offset="0.5" stop-color="#2ee66b"/>
+      <stop offset="0.67" stop-color="#22d3ee"/>
+      <stop offset="0.83" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#ff3b3b"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1000 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="120" fill="url(#g)"/>
+
+  <path fill="#000" fill-opacity="0.25" d="M0,95 Q125,65 250,95 T500,95 T750,95 T1000,95 T1250,95 T1500,95 L1500,120 L0,120 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <path fill="#000" fill-opacity="0.35" d="M0,105 Q125,80 250,105 T500,105 T750,105 T1000,105 T1250,105 T1500,105 L1500,120 L0,120 Z">
+    <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="500" y="58" text-anchor="middle" dominant-baseline="middle" font-family="Segoe UI, Arial, sans-serif" font-size="44" font-weight="700" fill="#ffffff">ceren altın</text>
+</svg>
