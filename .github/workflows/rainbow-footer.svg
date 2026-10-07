@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 60">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1000" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+      <stop offset="0" stop-color="#ff3b3b"/>
+      <stop offset="0.17" stop-color="#ff9a1f"/>
+      <stop offset="0.33" stop-color="#ffe135"/>
+      <stop offset="0.5" stop-color="#2ee66b"/>
+      <stop offset="0.67" stop-color="#22d3ee"/>
+      <stop offset="0.83" stop-color="#6366f1"/>
+      <stop offset="1" stop-color="#ff3b3b"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="1000 0" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="60" fill="url(#g)"/>
+
+  <path fill="#000" fill-opacity="0.25" d="M0,0 L0,25 Q125,-5 250,25 T500,25 T750,25 T1000,25 T1250,25 T1500,25 L1500,0 Z">
+    <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <path fill="#000" fill-opacity="0.35" d="M0,0 L0,15 Q125,-10 250,15 T500,15 T750,15 T1000,15 T1250,15 T1500,15 L1500,0 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="6s" repeatCount="indefinite"/>
+  </path>
+</svg>
